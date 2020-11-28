@@ -1,0 +1,8 @@
+com\mycompany\pr31_jv37_spring_mvc_sampleform\entity\AccountEntity.class
+com\mycompany\pr31_jv37_spring_mvc_sampleform\configuration\MVCConfig.class
+com\mycompany\pr31_jv37_spring_mvc_sampleform\repository\AccountRepository.class
+com\mycompany\pr31_jv37_spring_mvc_sampleform\emuns\Gender.class
+com\mycompany\pr31_jv37_spring_mvc_sampleform\configuration\AppInitializer.class
+com\mycompany\pr31_jv37_spring_mvc_sampleform\configuration\JPAConfig.class
+com\mycompany\pr31_jv37_spring_mvc_sampleform\controller\AccountController.class
+com\mycompany\pr31_jv37_spring_mvc_sampleform\service\AccountService.class
